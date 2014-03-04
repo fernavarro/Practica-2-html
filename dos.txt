@@ -1,0 +1,104 @@
+<html>
+<head>
+<title>Practica 2</title>
+<body bgcolor="#00FFFF">
+<marquee><h1>Reproductor de audio</marquee></h1>
+<table border="2" style="width:800px">
+<tr>
+  <td><h2>#</td></h2>
+  <td><h2>Titulo</td></h2>
+  <td><h2>Artista</td></h2>
+<td><h2>Cancion</td></h3>
+</tr>
+<tr>
+  <td><h4>1</td></h4>
+  <td><h4>Claro</td></h4>
+  <td><h4>Banda San Juan</td></h4>
+  <td><audio src="claro(3).mp3" controls></audio></td>
+</tr>
+<tr>
+  <td><h4>2</td></h4>
+  <td><h4>Let's get ridiculous</td></h4>
+  <td><h4>Redfoo</td></h4>
+  <td><audio src="redfoo - let's get ridiculous (www flowhot net).mp3" controls></audio></td>
+</tr>
+<tr>
+  <td><h4>3</td></h4>
+  <td><h4>Estoy Muerta</td></h4>
+  <td><h4>Deejay Norihega</td></h4>
+  <td><audio src="Deejay Norihega   Estoy Muerta ( Halloween Special Mix ).mp3" controls></audio></td>
+</tr>
+<tr>
+  <td><h4>4</td></h4>
+  <td><h4>El bueno y el malo</td></h4>
+  <td><h4>Tierra Sagrada</td></h4>
+  <td><audio src="el bueno y el malo(3).mp3" controls></audio></td>
+</tr>
+<tr>
+  <td><h4>5</td></h4>
+  <td><h4>Justicia divina</td></h4>
+  <td><h4>Banda Agua de la Llave</td></h4>
+  <td><audio src="justicia divina- la inolvidable banda agua de la llave(2).mp3" controls></audio></td>
+</tr>
+<tr>
+  <td><h4>6</td></h4>
+  <td><h4>Extreme</td></h4>
+  <td><h4>Alex Eliz</td></h4>
+  <td><audio src="alex eliz- extreme (original mix).mp3" controls></audio></td>
+</tr>
+<tr>
+  <td><h4>7</td></h4>
+  <td><h4>Wana Wana</td></h4>
+  <td><h4>Deejay Norihega</td></h4>
+  <td><audio src="Deejay Norihega   Wana Wana (Licuado Demente mix 2013 PVT) final.mp3" controls></audio></td>
+</tr>
+<tr>
+  <td><h4>8</td></h4>
+  <td><h4>Como Duele</td></h4>
+  <td><h4>Banda la Trakalosa</td></h4>
+  <td><audio src="diego herrera ft banda la trakalosa - como duele (2013) www bajarcorridos com(2)(2).mp3" controls></audio></td>
+</tr>
+<tr>
+  <td><h4>9</td></h4>
+  <td><h4>Timber</td></h4>
+  <td><h4>Pitbull feat Kesha</td></h4>
+  <td><audio src="-pitbull_feat _kesha--timber-e5096ff8e9da0415e0db913d884cb7d6-61e40fec.mp3" controls></audio></td>
+</tr>
+<tr>
+  <td><h4>10</td></h4>
+  <td><h4>Odio</td></h4>
+  <td><h4>Romeo Santos</td></h4>
+  <td><audio src="romeo santos - odio feat drake(2).mp3" controls></audio></td>
+</tr>
+</table>
+<hr>
+<marquee><h1>Reproductor de video</marquee></h1>
+<table border="2" style="width:800px">
+<tr>
+  <td><h2>#</td></h2>
+  <td><h2>Titulo</td></h2>
+  <td><h2>Tipo</td></h2>
+  <td><h2>Video</td></h2>
+</tr>
+<tr>
+  <td><h4>1</td></h4>
+  <td><h4>Los mejores cortos de humor</td></h4>
+  <td><h4>Humor</td></h4>
+  <td><video src="Los mejores cortos de humor 2013   Tu Canal de Humor.mp4" controls></video></td>
+</tr>
+<tr>
+  <td><h4>2</td></h4>
+  <td><h4>El Mejor Mimo Del Mundo</td></h4>
+  <td><h4>Divertido</td></h4>
+  <td><video src="El Mejor Mimo Del Mundo ? video humor   insolito   increible   divertido   fail.mp4" controls></video></td>
+</tr>
+<tr>
+  <td><h4>3</td></h4>
+  <td><h4>Nunca le digas</td></h4>
+  <td><h4>Loquendo</td></h4>
+  <td><video src="Nunca le digas 'No' al panda (Loquendo) (Cortos de Jogan)[1].mp4" controls></video></td>
+</tr>
+</table>
+</head>
+</body>
+</html>
